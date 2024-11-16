@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ecommerse-shopping-cart/static/css/main.903b2c5f.css",
+    "main.js": "/Ecommerse-shopping-cart/static/js/main.bb2cd904.js",
+    "static/media/logo-transbarent-background.png": "/Ecommerse-shopping-cart/static/media/logo-transbarent-background.fcbe3c86ca8bf01b9140.png",
+    "static/media/cart.png": "/Ecommerse-shopping-cart/static/media/cart.0536a050c115dd91665c.png",
+    "static/media/login.jpg": "/Ecommerse-shopping-cart/static/media/login.9db6c60a64c1c55725f0.jpg",
+    "static/media/slide-img-3.jpeg": "/Ecommerse-shopping-cart/static/media/slide-img-3.52c7b2dfd8c68e7f83d4.jpeg",
+    "static/media/slide-img-2.jpeg": "/Ecommerse-shopping-cart/static/media/slide-img-2.13e3d01e18996ccc675e.jpeg",
+    "index.html": "/Ecommerse-shopping-cart/index.html",
+    "main.903b2c5f.css.map": "/Ecommerse-shopping-cart/static/css/main.903b2c5f.css.map",
+    "main.bb2cd904.js.map": "/Ecommerse-shopping-cart/static/js/main.bb2cd904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.903b2c5f.css",
+    "static/js/main.bb2cd904.js"
+  ]
+}
